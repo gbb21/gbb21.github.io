@@ -40,7 +40,7 @@ $$ \beta_m = \frac{1}{2}log(\frac{1 - \epsilon_m}{\epsilon_m}) $$
 
 其中：
 
-$$ \epsilon_m = \frac {\sum_{y_n \neq g_m(x_n)}}{\sum_{n=1}^{N}g_m(x_n)} $$
+$$ \epsilon_m = \frac {\sum_{y_n \neq g_m} F_{m-1}(x_n)}{\sum_{n=1}^{N}F_{m-1}(x_n)} $$
 
 迭代以上步骤 $M$ 次即可得到由 $M$ 个弱分类器组成的强分类器。
 
