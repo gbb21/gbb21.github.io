@@ -1,4 +1,4 @@
-Welcome to Hong's Page
+Welcome to [Hong Hong](www.linkedin.com/in/hong-hong)'s Project Page
 
 ## About Myself
 I am an applied scientist in MSFT, with 6+ years of science modeling and 4+ years of engineering development experiences. Here is my summary:
