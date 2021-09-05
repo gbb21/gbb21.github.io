@@ -13,7 +13,7 @@ I am also an active member (Moderator) in Chinese AI community on the [Clubhouse
 ## The Work Projects
 1. [Microsoft Viva Topics](https://www.microsoft.com/en-us/microsoft-viva/topics)
 	* Smartly discover topic based knowledges in your organization
-	* Worked on areas over topic extraction, conflation as well as attributes ranking
+	* Worked on areas over extraction, conflation as well as ranking
 
 1. [Answers @ Microsoft Search](https://adoption.microsoft.com/microsoft-search/)
 	* Prompt direct answers to your search query
