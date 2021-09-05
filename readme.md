@@ -40,3 +40,16 @@ I am also an active member (Moderator) in Chinese AI community on the [Clubhouse
 1. [Risk of Collisions in Fast Rolling Hash Implementation](blogs/coding/hash-collision/hash1024.html)
 	* Code samples demonstrate a magic case that cause hash collisions in one of the fast rolling hash implementation
 
+## Previous Work Projects
+1. [Visual C++ STL Library](https://github.com/microsoft/STL)
+	* The Microsoft version of C++ standard library
+	* Contributed to version 2017, 2015
+	* Contributed to C++ co_routine design proposal to language committee
+
+1. [C++ Rest SDK](https://github.com/Microsoft/cpprestsdk)
+	* The open source Rest SDK for C++
+	* Worked as one of the primary project contributor
+
+1. [Microsoft Parallel Pattern Library](https://docs.microsoft.com/en-us/cpp/parallel/concrt/parallel-patterns-library-ppl?view=msvc-160)
+	* The earlier effort from Microsoft for C++ parallel computing
+	* Worked as one of the primary project contributor
