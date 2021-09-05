@@ -8,7 +8,7 @@ I am an applied scientist in MSFT, with 6+ years of science modeling and 4+ year
 * Hands-on experience in distributed system data processing, online / offline experiments and metrics evaluation
 * Used to be the expert of high performance / concurrent / Async development with C++
 
-I am also an active member (Moderator) in Chinese AI community on the [Clubhouse]()
+I am also an active member (Moderator) in Chinese AI community on the [Clubhouse](https://www.clubhouse.com/club/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B9%8B%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8)
 
 ## The Work Projects
 <TBD>
