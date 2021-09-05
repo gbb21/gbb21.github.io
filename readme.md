@@ -11,22 +11,32 @@ I am an applied scientist in MSFT, with 6+ years of science modeling and 4+ year
 I am also an active member (Moderator) in Chinese AI community on the [Clubhouse](https://www.clubhouse.com/club/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B9%8B%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8)
 
 ## The Work Projects
-<TBD>
+1. [Microsoft Viva Topics](https://www.microsoft.com/en-us/microsoft-viva/topics)
+	* Smartly discover topic based knowledges in your organization
+	* Worked on areas over topic extraction, conflation as well as attributes ranking
+
+1. [Answers @ Microsoft Search](https://adoption.microsoft.com/microsoft-search/)
+	* Prompt direct answers to your search query
+	* Worked on [Acronym Answers](https://docs.microsoft.com/en-us/microsoftsearch/manage-acronyms)
+
+1. [Microsoft Outlook Online](https://outlook.live.com/owa/)
+	* The modern enterprise smart email client
+	* Worked on areas over people search, email search
 
 ## The Lab Projects
 
-* [The Toy Sample for Message-Passing Variation Bayesian Inference](https://github.com/gbb21/GaussianVMP)
-	1. Simple implementation demo for message-passing based Bayesian inference
-	1. Capable of building simple Bayesian graph in Gaussian foamily
-	1. With detailed documentation and sample code
+1. [The Toy Sample for Message-Passing Variation Bayesian Inference](https://github.com/gbb21/GaussianVMP)
+	* Simple implementation demo for message-passing based Bayesian inference
+	* Capable of building simple Bayesian graph in Gaussian foamily
+	* With detailed documentation and sample code
 
-* [Private Domain Topic Representation Training](https://github.com/gbb21/TopicRepresentation)
-	1. Solve the topic representation training issues under private domain settings (small corpus size)
-	1. Joint training between topic representation and token representation
-	1. BERT/ERL pretrained model based
+1. [Private Domain Topic Representation Training](https://github.com/gbb21/TopicRepresentation)
+	* Solve the topic representation training issues under private domain settings (small corpus size)
+	* Joint training between topic representation and token representation
+	* BERT/ERL pretrained model based
 
 
 ## The Coding Related
-* [Risk of Collisions in Fast Rolling Hash Implementation](blogs/coding/hash-collision/hash1024.html)
-	1. Code samples demonstrate a magic case that cause hash collisions in one of the fast rolling hash implementation
+1. [Risk of Collisions in Fast Rolling Hash Implementation](blogs/coding/hash-collision/hash1024.html)
+	* Code samples demonstrate a magic case that cause hash collisions in one of the fast rolling hash implementation
 
