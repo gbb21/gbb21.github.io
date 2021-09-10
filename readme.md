@@ -37,7 +37,7 @@ I am also an active member (Moderator) in Chinese AI community on the [Clubhouse
 
 
 ## The Fun Coding Life
-1. [The Airline Price Optimization from Kaggle](blogs/lab/airline-price-optimization-microchalleng/airline-price-optimization-microchalleng.ipynb)
+1. [The Airline Price Optimization from Kaggle](blogs/lab/airline-price-optimization-microchalleng/airline-price-optimization-microchalleng.html)
 	* Basic solution for airline price optimization challenge with detailed explanation.
 1. [Risk of Collisions in Fast Rolling Hash Implementation](blogs/coding/hash-collision/hash1024.html)
 	* Code samples demonstrate a magic case that cause hash collisions in one of the fast rolling hash implementation
