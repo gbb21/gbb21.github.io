@@ -13,6 +13,11 @@ I am also an active member (Moderator) in Chinese AI community on the [Clubhouse
 ## The Blogs
 
 1. [Commenting on the O1 Implementation](blogs/wechat/o-1-mtcs-selfplay-details/o-1-mtcs-selfplay-details.md)
+1. [Sampling and Estimation Step-by-Step](blogs/wechat/sampling-and-estimation-step-by-step/sampling-and-estimation-step-by-step.htm)
+1. [Generative-model and discriminative Model](blogs/wechat/generative-model-and-discrimitive-model/generative-model-and-discrimitive-model.htm)
+1. [Perfect Coin](blogs/wechat/perfect-coin/perfect-coin.htm)
+1. [Boost Series adaBoost and GBDT](blogs/wechat/boost-series-adaboost-gdbt/boost-series-adaboost.md)
+1. [A Story about e](blogs/wechat/a-story-about-e2/a-story-about-e2.htm)
 
 ## The Work Projects
 1. [Microsoft Viva Topics](https://www.microsoft.com/en-us/microsoft-viva/topics)
