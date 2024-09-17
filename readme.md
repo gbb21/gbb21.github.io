@@ -1,9 +1,9 @@
 Welcome to [Hong Hong](https://www.linkedin.com/in/hong-hong)'s Project Page
 
 ## About Myself
-I am an applied scientist in MSFT, with 6+ years of science modeling and 4+ years of engineering development experiences. Here is my summary:
+I am an applied scientist at Meta and previously MSFT, with 9+ years of science modeling and 4+ years of engineering development experiences. Here is my summary:
 
-* Experienced in R&D in areas like KM, NLP, KG, as well as training models within compliant boundary
+* Experienced in R&D in areas like LLM, DocAI, NLP, KG, as well as training models within compliant boundary
 * Passionate in probabilistic modeling with small data; weak / semi supervision & transfer learning in Enterprise settings
 * Hands-on experience in distributed system data processing, online / offline experiments and metrics evaluation
 * Used to be the expert of high performance / concurrent / Async development with C++
@@ -16,21 +16,9 @@ I am also an active member (Moderator) in Chinese AI community on the [Clubhouse
 1. [Sampling and Estimation Step-by-Step](blogs/wechat/sampling-and-estimation-step-by-step/sampling-and-estimation-step-by-step.htm)
 1. [Generative-model and discriminative Model](blogs/wechat/generative-model-and-discrimitive-model/generative-model-and-discrimitive-model.htm)
 1. [Perfect Coin](blogs/wechat/perfect-coin/perfect-coin.htm)
-1. [Boost Series adaBoost and GBDT](blogs/wechat/boost-series-adaboost-gdbt/boost-series-adaboost.md)
+1. [Boost Series AdaBoost and GBDT](blogs/wechat/boost-series-adaboost-gdbt/boost-series-adaboost.md)
 1. [A Story about e](blogs/wechat/a-story-about-e2/a-story-about-e2.htm)
 
-## The Work Projects
-1. [Microsoft Viva Topics](https://www.microsoft.com/en-us/microsoft-viva/topics)
-	* Smartly discover topic based knowledges in your organization
-	* Worked on areas over extraction, conflation as well as ranking
-
-1. [Answers @ Microsoft Search](https://adoption.microsoft.com/microsoft-search/)
-	* Prompt direct answers to your search query
-	* Worked on [Acronym Answers](https://docs.microsoft.com/en-us/microsoftsearch/manage-acronyms)
-
-1. [Microsoft Outlook Online](https://outlook.live.com/owa/)
-	* The modern enterprise smart email client
-	* Worked on areas over people search, email search
 
 ## The Lab Projects
 
@@ -52,6 +40,18 @@ I am also an active member (Moderator) in Chinese AI community on the [Clubhouse
 	* Code samples demonstrate a magic case that cause hash collisions in one of the fast rolling hash implementation
 
 ## Previous Work Projects
+1. [Microsoft Viva Topics](https://www.microsoft.com/en-us/microsoft-viva/topics)
+	* Smartly discover topic based knowledges in your organization
+	* Worked on areas over extraction, conflation as well as ranking
+
+1. [Answers @ Microsoft Search](https://adoption.microsoft.com/microsoft-search/)
+	* Prompt direct answers to your search query
+	* Worked on [Acronym Answers](https://docs.microsoft.com/en-us/microsoftsearch/manage-acronyms)
+
+1. [Microsoft Outlook Online](https://outlook.live.com/owa/)
+	* The modern enterprise smart email client
+	* Worked on areas over people search, email search
+
 1. [Visual C++ STL Library](https://github.com/microsoft/STL)
 	* The Microsoft version of C++ standard library
 	* Contributed to version 2017, 2015
