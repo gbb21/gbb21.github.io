@@ -8,11 +8,20 @@ I am an applied scientist at Meta and previously MSFT, with 9+ years of science 
 * Hands-on experience in distributed system data processing, online / offline experiments and metrics evaluation
 * Used to be the expert of high performance / concurrent / Async development with C++
 
-I am also an active member (Moderator) in Chinese AI community on the [Clubhouse](https://www.clubhouse.com/club/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B9%8B%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8)
+I am an active member (Moderator) in Chinese AI community on the [Clubhouse](https://www.clubhouse.com/club/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B9%8B%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8)
+
+I am an Co-Host in Chinese AI podcast [EnterAI](https://www.xiaoyuzhoufm.com/podcast/65f7cd0c6764957079f76ab5)
 
 ## The Blogs
 
+1. [Random and Fair Red Pockets: A Statistical Approach](blogs/lab/sample-from-dir/divide-red-pockets.md)
+	* Shared a common but interesting "stats cookie" problem about how to randomly and fairly split money in Chinese Red-Pockets.
+	* Discussed 3 different statistical approaches to split the red pockets money.
+	* Analyzed different characteristics and demonstrated the sampling process in python code.
 1. [Commenting on the O1 Implementation](blogs/wechat/o-1-mtcs-selfplay-details/o-1-mtcs-selfplay-details.md)
+	* Discussed 2 hypotheses on how would the OpenAI O1 were implemented
+	* Hypotheses 1 - using MCTS to perform self CoT training
+	* Hypotheses 2 - using self-play to align model's output to human preference
 1. [Sampling and Estimation Step-by-Step](blogs/wechat/sampling-and-estimation-step-by-step/sampling-and-estimation-step-by-step.htm)
 1. [Generative-model and discriminative Model](blogs/wechat/generative-model-and-discrimitive-model/generative-model-and-discrimitive-model.htm)
 1. [Perfect Coin](blogs/wechat/perfect-coin/perfect-coin.htm)
