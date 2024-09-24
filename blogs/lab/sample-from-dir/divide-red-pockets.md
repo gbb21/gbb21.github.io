@@ -106,7 +106,7 @@ The lower *variance* means the splitted amounts more concentrated to their mean 
 
 With the above definition and some stats calculations, we can derive the *randomness* of the final money splitting by using the second approach, which is proportional to the mean and variance of the sampling distribution *H(x)*. In particular, we have
 
-$$ Randomness \propto \frac{\sigma_{H(x)}}{\mu_{H(x)}} $$
+$$ Randomness \propto \frac{\sigma_{H(x)}^2}{\mu_{H(x)}^2} $$
 
 By controlling the sampling distribution mean and variance, we can get different level of randomness during money splitting.
 
