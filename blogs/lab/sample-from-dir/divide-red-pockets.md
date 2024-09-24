@@ -121,6 +121,8 @@ The generalized splitting distribution actually maps to a well known multi-varia
 As you can see from the above Wiki figure, sampling from this distribution would happens on a *N - 1* simplex.
 You can assign different Dirichlet parameters to control the different weights for each red pocket and the randomness of the splitting (the concentration or variance of the distribution).
 
+When we set all the weights to 1, it becomes *flat Dirichlet distribution*, and sampling from it is exactly same as sampling from our first approach.
+
 ```python
 import numpy as np
 from scipy.stats import dirichlet
